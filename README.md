@@ -39,6 +39,9 @@ Decuments:
 
 ## COMPILATION
 ----
+ * Clone from new repository: 
+   * git clone http://advgitlab.eastasia.cloudapp.azure.com/EI-Connect/EI-Connect.git
+
  * Windows - Visual Studio 2008 
    1. Open "EI-connect.sln"
    2. In Solution Explore, Set "WISECoreSample" project as Startup Project
