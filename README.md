@@ -89,6 +89,7 @@ Decuments:
 
  * [Advantech IoT Developer Forum](http://iotforum.advantech.com/)
  * [EI-PaaS Documents](http://ei-paas-documentation.docs.wise-paas.com/Documentation/#!index.md)
+ * [EI-Connect Source Code](http://advgitlab.eastasia.cloudapp.azure.com/EI-Connect/EI-Connect)
  
 ## License
 ----
